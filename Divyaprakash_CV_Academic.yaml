@@ -13,7 +13,7 @@ cv:
       username: H4Byf9EAAAAJ
   sections:
     about me:
-      - I am a computational researcher specializing in scientific computing, and machine learning applications in fluid dynamics. My expertise lies in developing and implementing numerical simulations and computational models to solve complex fluid flow and fluid-structure interaction problems. With some years of teaching experience in fluid mechanics and computational methods, I combine research with effective knowledge transfer. This CV highlights my research contributions, teaching experience, project involvement, and technical skillset in the field of computational mechanics.
+      - I am a computational researcher specializing in scientific computing, and machine learning applications in fluid dynamics. My expertise lies in developing and implementing numerical simulations and computational models to solve complex fluid flow and fluid-structure interaction problems. With some years of teaching experience in fluid mechanics and computational methods at the university level, I combine research with effective knowledge transfer. This CV highlights my research contributions, teaching experience, project involvement, and technical skillset in the field of computational mechanics.
     education:
       - institution: Indian Institute of Technology Delhi
         area:  Applied Mechanics
@@ -47,8 +47,8 @@ cv:
         highlights:
           - 'Percentage: 76%, First class with distinction'
     experience:
-    - company: Google Summmer of Code 2025 
-        position: "Summer Intern"
+      - company: Google Summer of Code 2025 - Stitching SU2
+        position: Summer Intern/Programmer
         date:
         start_date: 2025-05
         end_date: 2025-09
@@ -64,7 +64,7 @@ cv:
         location: Assam, India
         summary:
         highlights:
-          - Specialized in teaching advanced courses in fluid mechanics and computational fluid dynamics (CFD), and actively engaged in research in these areas
+          - Specialized in teaching advanced fluid mechanics and CFD courses
       - company: Institute of Technology Gopeshwar
         position: Assistant Professor
         date:
@@ -123,14 +123,14 @@ cv:
         start_date: 2021
         end_date: 2024
         location:
-        summary: The sensing mechanism of biological cilia in particle-laden flow environments was investigated. Particle-cilia interactions were simulated using the Immersed Boundary Method for which an in-house solver was developed from scratch, the generated data was utilized to train an LSTM-based machine learning model with a regression layer. Particle size and aspect ratio were predicted with accuracy within 5%. Research findings were presented at the ECCOMAS Congress 2024 in Lisboa, Portugal.
+        summary: As part of PhD thesis at IIT Delhi, the sensing mechanism of biological cilia in particle-laden flow environments was investigated. Particle-cilia interactions were simulated using the Immersed Boundary Method, and the generated data was utilized to train an LSTM-based machine learning model with a regression layer. Particle size and aspect ratio were predicted with accuracy within 5%. Research findings were presented at the ECCOMAS Congress 2024 in Lisboa, Portugal.
         highlights:
       - name: Numerical Simulation of Vortex Shedding and Scour for Submarine Pipelines
         date:
         start_date: 2015
         end_date: 2016
         location:
-        summary: A 2D turbulent flow around submarine pipelines was simulated using OpenFOAM with RANS and k-ω SST models. Pipeline shapes were tested to minimize vortex shedding, and a custom solver with Python/bash scripts was developed for scour prediction, validated against experimental data.
+        summary: As part of M.Tech thesis at IIT Gandhinagar, 2D turbulent flow around submarine pipelines was simulated using OpenFOAM with RANS and k-ω SST models. Pipeline shapes were tested to minimize vortex shedding, and a custom solver with Python/bash scripts was developed for scour prediction, validated against experimental data.
         highlights:
       - name: Solid Propellant Fire Suppression Simulation
         date: 2018
@@ -201,7 +201,7 @@ design:
     left_margin: 2cm
     right_margin: 2cm
     show_page_numbering: true
-    show_last_updated_date: false
+    show_last_updated_date: true
   colors:
     text: rgb(0, 0, 0)
     name: rgb(0, 79, 144)

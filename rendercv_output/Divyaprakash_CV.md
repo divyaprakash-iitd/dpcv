@@ -11,7 +11,7 @@
 
 # About Me
 
-I am a computational researcher specializing in scientific computing, and machine learning applications in fluid dynamics. My expertise lies in developing and implementing numerical simulations and computational models to solve complex fluid flow and fluid-structure interaction problems. With several years of teaching experience in fluid mechanics and computational methods at the university level, I combine research with effective knowledge transfer. This CV highlights my research contributions, teaching experience, project involvement, and technical skillset in the field of computational mechanics.
+I am a computational researcher specializing in scientific computing, and machine learning applications in fluid dynamics. My expertise lies in developing and implementing numerical simulations and computational models to solve complex fluid flow and fluid-structure interaction problems. With some years of teaching experience in fluid mechanics and computational methods at the university level, I combine research with effective knowledge transfer. This CV highlights my research contributions, teaching experience, project involvement, and technical skillset in the field of computational mechanics.
 
 # Education
 
@@ -36,11 +36,17 @@ I am a computational researcher specializing in scientific computing, and machin
 
 # Experience
 
+## Google Summer of Code 2025 - Stitching SU2, Summer Intern/Programmer
+
+- May 2025 – Sept 2025
+- Remote
+- Using data-driven, physics-informed machine learning to model fluid properties in computational fluid dynamics
+
 ## Jorhat Engineering College, Assistant Professor
 
 - Sept 2018 – Sept 2020
 - Assam, India
-- Specialized in teaching advanced fluid mechanics and computational fluid dynamics courses
+- Specialized in teaching advanced fluid mechanics and CFD courses
 
 ## Institute of Technology Gopeshwar, Assistant Professor
 
@@ -60,7 +66,7 @@ I am a computational researcher specializing in scientific computing, and machin
 - Singapore
 - Worked on implementing immersed boundary method in OpenFOAM by modifying existing solver for vortex-induced vibration simulations
 
-## Institute for Plasma Research, Graduate Apprentice
+## Institute for Plasma Research Gandhinagar, Graduate Apprentice
 
 - Aug 2013 – Nov 2013
 - Gujarat, India
@@ -115,4 +121,5 @@ I am a computational researcher specializing in scientific computing, and machin
 # References
 
 - Amitabh Bhattacharya, Professor, Indian Institute of Technology Delhi, Email: [bhattach@iitd.ac.in](mailto:bhattach@iitd.ac.in)
-- Pranab Kumar Mohapatra, Professor, Indian Institute of Technology Gandhinagar, Email: [pranabm@iitgn.ac.in](mailto:pranabm@iitgn.ac.in)
+- Amit Gupta, Professor, Indian Institute of Technology Delhi, Email: [agupta@mech.iitd.ac.in](mailto:agupta@mech.iitd.ac.in)
+- Bipin Kumar, Scientist, Indian Institute of Tropical Meteorology, Email: [bipin.porwal@gmail.com](mailto:bipin.porwal@gmail.com)

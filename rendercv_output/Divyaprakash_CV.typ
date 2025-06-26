@@ -467,7 +467,7 @@
 
 
 #one-col-entry(
-  content: [I am a computational researcher specializing in scientific computing, and machine learning applications in fluid dynamics. My expertise lies in developing and implementing numerical simulations and computational models to solve complex fluid flow and fluid-structure interaction problems. With several years of teaching experience in fluid mechanics and computational methods at the university level, I combine research with effective knowledge transfer. This CV highlights my research contributions, teaching experience, project involvement, and technical skillset in the field of computational mechanics.]
+  content: [I am a computational researcher specializing in scientific computing, and machine learning applications in fluid dynamics. My expertise lies in developing and implementing numerical simulations and computational models to solve complex fluid flow and fluid-structure interaction problems. With some years of teaching experience in fluid mechanics and computational methods at the university level, I combine research with effective knowledge transfer. This CV highlights my research contributions, teaching experience, project involvement, and technical skillset in the field of computational mechanics.]
 )
 
 
@@ -534,10 +534,25 @@ May 2008 – July 2012
 
 #two-col-entry(
   left-content: [
+    #strong[Google Summer of Code 2025 - Stitching SU2], Summer Intern\/Programmer
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Using data-driven, physics-informed machine learning to model fluid properties in computational fluid dynamics],)
+  ],
+  right-content: [
+    Remote
+
+May 2025 – Sept 2025
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #strong[Jorhat Engineering College], Assistant Professor
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Specialized in teaching advanced fluid mechanics and computational fluid dynamics courses],)
+    #v(design-highlights-top-margin);#highlights([Specialized in teaching advanced fluid mechanics and CFD courses],)
   ],
   right-content: [
     Assam, India
@@ -594,7 +609,7 @@ May 2015 – July 2015
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Institute for Plasma Research], Graduate Apprentice
+    #strong[Institute for Plasma Research Gandhinagar], Graduate Apprentice
     #v(-design-text-leading)
 
     #v(design-highlights-top-margin);#highlights([Received specialized training in solving conduction heat transfer problems using numerical methods implemented in MATLAB.],)
@@ -666,7 +681,7 @@ Aug 2013 – Nov 2013
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Simulated detonation\/deflagration of a solid propellant for fire suppression was performed using Uintah software from the University of Utah. Fire dynamics were modeled with Fire Dynamics Simulator \(FDS\), and initial experiments were conducted with team members to compare simulation results with experimental data.])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Simulated detonation\/deflagration of a solid propellant for fire suppression using Uintah software from the University of Utah. Fire dynamics were modeled with Fire Dynamics Simulator \(FDS\), and initial experiments were conducted with team members to compare simulation results with experimental data.])], column-gutter: 0cm)
   ],
 )
 
@@ -773,7 +788,11 @@ Aug 2013 – Nov 2013
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- Pranab Kumar Mohapatra, Professor, Indian Institute of Technology Gandhinagar, Email: #link("mailto:pranabm@iitgn.ac.in")[pranabm\@iitgn.ac.in]],
+  content: [- Amit Gupta, Professor, Indian Institute of Technology Delhi, Email: #link("mailto:agupta@mech.iitd.ac.in")[agupta\@mech.iitd.ac.in]],
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [- Bipin Kumar, Scientist, Indian Institute of Tropical Meteorology, Email: #link("mailto:bipin.porwal@gmail.com")[bipin.porwal\@gmail.com]],
 )
 
 
